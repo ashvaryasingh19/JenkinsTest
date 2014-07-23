@@ -27,6 +27,6 @@
 }
 -(void)add
 {
-    NSLog(@"dsdf");
+    NSLog(@"dsdfasdd");
 }
 @end
